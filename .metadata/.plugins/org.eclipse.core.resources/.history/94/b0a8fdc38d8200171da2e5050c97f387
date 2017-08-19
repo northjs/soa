@@ -1,0 +1,8 @@
+package com.cto56.cms.web.dao;
+
+import java.util.List;
+
+
+public interface ProductCategoryMapper {
+	List<Order> listOrders();
+}

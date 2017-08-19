@@ -1,0 +1,8 @@
+package com.cto56.cms.web.entity;
+
+public class Order {
+
+	private Long id;
+	
+	
+}

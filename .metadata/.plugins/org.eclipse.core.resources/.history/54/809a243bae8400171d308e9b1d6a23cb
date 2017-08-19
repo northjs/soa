@@ -1,0 +1,8 @@
+package com.hto56.order.web.controller;
+
+@RestCo
+public class OrderController {
+
+	
+	
+}

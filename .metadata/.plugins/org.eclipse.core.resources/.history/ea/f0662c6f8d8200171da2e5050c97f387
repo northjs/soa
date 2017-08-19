@@ -1,0 +1,11 @@
+package com.cto56.cms.web.entity;
+
+public class ProductCategory {
+
+	private String id;
+	private String pid;
+	private String parent_id;
+	
+	
+	
+}

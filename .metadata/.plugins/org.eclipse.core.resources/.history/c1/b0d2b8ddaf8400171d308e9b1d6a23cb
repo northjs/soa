@@ -1,0 +1,5 @@
+package com.hto56.order.entity;
+
+public class OrderEntity {
+
+}

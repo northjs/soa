@@ -1,0 +1,4 @@
+com\hto56\order\dto\OrderDTO.class
+com\hto56\order\facade\OrderFacade.class
+com\hto56\order\entity\OrderEntity.class
+com\hto56\order\entity\BaseEntity.class

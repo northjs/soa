@@ -1,0 +1,14 @@
+package com.cto56.cms.web;
+
+import org.mybatis.spring.annotation.MapperScan;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+@MapperScan("com.cto56.cms.web.entity.Order")
+public class Cto56CmsWebApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Cto56CmsWebApplication.class, args);
+	}
+}

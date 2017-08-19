@@ -1,0 +1,6 @@
+package com.cto56.cms.web.dao;
+
+public interface OrderMapper {
+
+	
+}

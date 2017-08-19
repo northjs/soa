@@ -1,0 +1,74 @@
+package com.hto56.order.entity;
+
+import java.util.Date;
+
+public class OrderEntity extends BaseEntity{
+	private String orderSn;
+	private String storeId;
+	private String storeName;
+	private String buyerId;
+	private String buyerName;
+	private String buyerEmail;
+	private Date createTime;
+	private int orderType;
+	private String paymentId;
+	private String paymentName;
+	private String paymentCode;
+	private String paymentBranch;
+	private String paymentDirect;
+	private String paymentState;
+	private String outSn;
+	private String tradeSn;
+	private Date paymentTime;
+	private String payMessage;
+	private Date shippingTime;
+	private String shippingExpressId;
+	private String shippingCode;
+	private String outPaymentCode; 
+	private Date finnshedTime;
+	private String invoice;
+    private Double	goodsAmount;
+    private Double discount;
+	order_amount` deci
+	order_total_price`
+	shipping_fee` deci
+	shipping_name` var
+	evaluation_status`
+	evaluation_time` b
+	evalseller_status`
+	evalseller_time` b
+	order_message` var
+	order_state` int(1
+	order_pointscount`
+	voucher_id` int(11
+	voucher_price` dec
+	voucher_code` varc
+	refund_state` tiny
+	return_state` tiny
+	refund_amount` dec
+	return_num` int(10
+	group_id` bigint(1
+	group_count` int(1
+	xianshi_id` bigint
+	xianshi_explain` v
+	mansong_id` bigint
+	mansong_explain` v
+	bundling_id` int(1
+	bundling_explain` 
+	order_from` enum('
+	deliver_explain` t
+	daddress_id` mediu
+	address_id` bigint
+	pay_id` bigint(11)
+	pay_sn` varchar(50
+	balance_state` tin
+	balance_time` bigi
+	shipping_express_c
+	predeposit_amount`
+	cancel_cause` varc
+	coupon_id` bigint(
+	coupon_price` deci
+	promo_price` decim
+	lock_state` tinyin
+
+}

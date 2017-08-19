@@ -1,0 +1,27 @@
+package com.cto56.cms.web.entity;
+
+import java.util.Date;
+
+public class ProductCategory {
+
+	private Long id;
+	private String pid;
+	private String parent_id;
+	
+	private String name;
+	
+	private String status;
+	
+	private String sort_order;
+	
+	private int is_parent;
+	
+	private Date created;
+	
+	private Date updated;
+	
+	
+	
+	
+	
+}

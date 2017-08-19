@@ -1,0 +1,17 @@
+package com.cto56.cms.web.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.cto56.cms.web.dao.ProductCategoryMapper;
+
+@Service
+public class ProductCategoryService {
+
+	@Autowired
+	private ProductCategoryMapper mapper;
+	
+	
+	
+	
+}

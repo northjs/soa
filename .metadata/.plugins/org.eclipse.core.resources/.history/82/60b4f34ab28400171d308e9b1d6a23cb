@@ -1,0 +1,74 @@
+package com.hto56.order.entity;
+
+import java.util.Date;
+
+public class OrderEntity extends BaseEntity{
+	private String orderSn;
+	private String storeId;
+	private String storeName;
+	private String buyerId;
+	private String buyerName;
+	private String buyerEmail;
+	private Date createTime;
+	private int orderType;
+	private String paymentId;
+	private String paymentName;
+	private String paymentCode;
+	private String paymentBranch;
+	private String paymentDirect;
+	private String paymentState;
+	private String outSn;
+	private String tradeSn;
+	private Date paymentTime;
+	private String payMessage;
+	private Date shippingTime;
+	private String shippingExpressId;
+	private String shippingCode;
+	private String outPaymentCode; 
+	private Date finnshedTime;
+	private String invoice;
+    private Double	goodsAmount;
+    private Double discount;
+    private Double orderAmount;
+    private Double orderTotalPrice;
+    private Double shipping_fee;
+    private Double	shipping_name;
+    private String evaluation_status`
+	evaluation_time` b
+	private String evalseller_status`
+	evalseller_time` b
+	private String order_message` var
+	private int order_state` int(1
+    private String order_pointscount`
+	voucher_id` int(11
+	voucher_price` dec
+	private int voucher_code` varc
+	private int refund_state` tiny
+	private int return_state` tiny
+	refund_amount` dec
+	private int return_num` int(10
+			private String group_id` bigint(1
+					private int group_count` int(1
+	private String xianshi_id` bigint
+	private String xianshi_explain` v
+	private String mansong_id` bigint
+	private String mansong_explain` v
+	private String bundling_id` int(1
+			private String bundling_explain` 
+			private String order_from` enum('
+					private String deliver_explain` t
+					private String daddress_id` mediu
+					private String address_id` bigint
+					private String pay_id` bigint(11)
+					private String pay_sn` varchar(50
+							private String balance_state` tin
+	balance_time` bigi
+	private String shipping_express_c
+	private String predeposit_amount`
+	private String cancel_cause` varc
+	private String coupon_id` bigint(
+			private Double coupon_price` deci
+			private Double promo_price` decim
+			private String lock_state` tinyin
+
+}

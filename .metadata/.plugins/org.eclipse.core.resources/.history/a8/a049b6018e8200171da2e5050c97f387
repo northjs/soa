@@ -1,0 +1,5 @@
+package com.cto56.cms.web.service;
+
+public class ProductCategoryService {
+
+}

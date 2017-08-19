@@ -1,0 +1,10 @@
+package com.cto56.cms.web.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class ProductCategoryService {
+
+	
+	
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.cto56.cms.web.entity.Order"/>
+<fullyQualifiedTypeName name="org.mybatis.spring.annotation.MapperScan"/>
+<fullyQualifiedTypeName name="com.cto56.cms.web.dao.OrderMapper"/>
+<fullyQualifiedTypeName name="com.cto56.cms.web.service.OrderService"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.cto56.cms.web.entity.ProductCategory"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="com.cto56.cms.web.dao.ProductCategoryMapper"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="com.cto56.cms.web.service.ProductCategoryService"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.cto56.cms.web.dto.EUTreeNode"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+</qualifiedTypeNameHistroy>

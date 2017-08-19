@@ -1,0 +1,7 @@
+package com.hto56.order.facade;
+
+public interface OrderFacade {
+
+	List<OrderDTO> queryOrderByNo(String orderSn);
+	
+}

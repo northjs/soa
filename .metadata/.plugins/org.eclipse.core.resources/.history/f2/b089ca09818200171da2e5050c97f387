@@ -1,0 +1,17 @@
+package com.cto56.cms.web.controller;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.cto56.cms.web.entity.Order;
+
+@RestController
+public class OrderController {
+
+	@RequestMapping("/orders")
+	public List<Order> listOrders(){
+		
+	}
+}
