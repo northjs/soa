@@ -1,5 +1,0 @@
-spring.dubbo.application.name=consumer
-spring.dubbo.registry.address=zookeeper://192.168.64.132:2181
-spring.dubbo.scan=com.example.demo.refer
-spring.dubbo.module=ppp
-server.port=7777

@@ -1,9 +1,0 @@
-
-
-
-
-spring.dubbo.application.name=consumer
-spring.dubbo.registry.address=zookeeper://192.168.64.132:2181
-spring.dubbo.scan=com.hto56.order.web.rpc
-spring.dubbo.module=order
-server.port=7777

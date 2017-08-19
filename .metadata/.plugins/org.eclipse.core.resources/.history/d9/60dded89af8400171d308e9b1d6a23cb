@@ -1,7 +1,0 @@
-package com.hto56.order.dto;
-
-import java.io.Serializable;
-
-public class OrderDTO implements Serializable{
-
-}
